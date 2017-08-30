@@ -88,9 +88,10 @@ export default class HomepageLayout extends Component {
                                 </Container>
                             </Menu>
                     </Segment>
-
+                
 
                 <Segment style={{ padding: '50em' }} vertical>
+                    Hi
                 </Segment>
                 <Segment inverted vertical style={{ padding: '5em 0em' }}>
                     <Container>

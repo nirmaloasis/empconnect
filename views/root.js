@@ -1,6 +1,7 @@
 import React from 'react';
 import { Button } from 'semantic-ui-react'
 import HomepageLayout from './HomepageLayout';
+import CustomItem from './CustomItem'
 
 export default class Root extends React.Component {
     // constructor() {
@@ -16,7 +17,7 @@ export default class Root extends React.Component {
     render() {
         return (
             <div>
-                <HomepageLayout/>
+                <CustomItem/>
             </div>
         );
     }

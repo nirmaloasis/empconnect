@@ -61082,7 +61082,11 @@ var HomepageLayout = function (_Component) {
                         )
                     )
                 ),
-                _react2.default.createElement(_semanticUiReact.Segment, { style: { padding: '50em' }, vertical: true }),
+                _react2.default.createElement(
+                    _semanticUiReact.Segment,
+                    { style: { padding: '50em' }, vertical: true },
+                    'Hi'
+                ),
                 _react2.default.createElement(
                     _semanticUiReact.Segment,
                     { inverted: true, vertical: true, style: { padding: '5em 0em' } },
